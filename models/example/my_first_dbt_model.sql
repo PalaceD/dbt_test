@@ -28,8 +28,6 @@ from source_data
 
 -- little comment
 
-<<<<<<< HEAD
 ------qweq  ewqewqe 123 qweqweq qweqw eeeeeeeea qwqewqweqweqwe2342wfw
-=======
-------qweq  ewqewqe 123 qweqweq qweqw eeeeeeeec eeeeee wwwwwwwwww
->>>>>>> 83bb99485717ee1cd74641a311d07905be2e011a
+
+
