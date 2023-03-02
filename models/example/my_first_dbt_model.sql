@@ -27,5 +27,3 @@ from source_data
 -- where id is not null
 
 -- little comment
-
-------qweq  ewqewqe 123 qweqweq qweqw eeeeeeeec eeeeee wwwwwwwwwwqq
